@@ -1,5 +1,5 @@
 import { config } from "dotenv";
-config();
+config(); 
 
 export const PORT = 3000;
 export const CLIENT_PAYPAL = process.env.CLIENT_PAYPAL_ID;
